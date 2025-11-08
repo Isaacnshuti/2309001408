@@ -1,0 +1,164 @@
+<HOTELS_IN_Congo>
+                <!-- Hotel number 1 -->
+    <Hotel category="5_star">
+        <Name>ihusihotel</Name>
+        <Location>Goma DRC</Location>
+        <phone>+243 123 456 789</phone>
+        <url>http://www.ihusihotel.com</url>
+        <description> Ihusihotel is a luxurious 5-star hotel located in the heart of Goma, DRC. It offers world-class amenities and exceptional service to ensure a memorable stay for all guests.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Swimming Pool</amenity>
+            <amenity>Spa</amenity>
+            <amenity>Gym</amenity>
+            <amenity>Restaurant</amenity>
+        </amenities>
+    </Hotel>
+                 <!-- Hotel number 2 -->
+    <hotel category="4_star">
+        <name>Goma Serena Hotel</name>
+        <location>Goma DRC</location>
+        <phone>+243 987 654 321</phone>
+        <url>http://gomaserenahotel.com</url>
+        <description>Goma Serena Hotel is a prestigious 4-star hotel offering comfortable accommodations and excellent facilities for both business and leisure travelers in Goma, DRC.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Conference Rooms</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>Bar</amenity>
+            <amenity>Room Service</amenity>
+        </amenities>
+    </hotel>
+                 <!-- Hotel number 3  -->
+    <hotel category="3_star">
+        <name>Hotel des Volcans</name>
+        <location>Goma DRC</location>
+        <phone>+243 555 666 777</phone>
+        <url>http://hoteldesvolcans.com</url>
+        <description>Hotel des Volcans is a charming 3-star hotel situated in Goma, DRC. It provides cozy accommodations and essential amenities for travelers seeking comfort and convenience.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>24-hour Front Desk</amenity>
+            <amenity>Laundry Service</amenity>
+            <amenity>Parking</amenity>
+        </amenities>
+    </hotel>
+                <!-- Hotel number 4 -->
+    <hotel category="4_star">
+        <name>Lake Kivu Hotel</name>
+        <location>Gisenyi DRC</location>
+        <phone>+243 444 555 666</phone>
+        <url>http://lakekivuhotel.com</url>
+        <description>Lake Kivu Hotel is a beautiful 4-star hotel located on the shores of Lake Kivu in Gisenyi, DRC. It offers stunning views, comfortable rooms, and a range of amenities for a relaxing stay.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Swimming Pool</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>Bar</amenity>
+            <amenity>Water Sports</amenity>
+        </amenities>
+    </hotel>
+                    <!-- Hotel number 5  -->
+    <hotel category="3_star">
+        <name>Hotel Virunga</name>
+        <location>Goma DRC</location>
+        <phone>+243 222 333 444</phone>
+        <url>http://hotelvirunga.com</url>
+        <description>Hotel Virunga is a welcoming 3-star hotel in Goma, DRC. It provides comfortable accommodations and essential services for travelers looking for a pleasant stay.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>24-hour Front Desk</amenity>
+            <amenity>Laundry Service</amenity>
+            <amenity>Parking</amenity>
+        </amenities>
+        </hotel>
+                    <!-- Hotel number 6 -->
+    <hotel category="5_star">
+        <name>Palace of the Congo</name>
+        <location>Kinshasa DRC</location>
+        <phone>+243 777 888 999</phone>
+        <url>http://palaceofthecongo.com</url>
+        <description>Palace of the Congo is an opulent 5-star hotel located in Kinshasa, DRC. It boasts lavish accommodations, exquisite dining options, and top-notch amenities for discerning travelers.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Swimming Pool</amenity>
+            <amenity>Spa</amenity>
+            <amenity>Gym</amenity>
+            <amenity>Fine Dining Restaurant</amenity>
+        </amenities>
+    </hotel>
+    <hotel category="4_star">
+        <name>Kinshasa Grand Hotel</name>
+        <location>Kinshasa DRC</location>
+        <phone>+243 111 222 333</phone>
+        <url>http://kinshasagrandhotel.com</url>
+        <description>Kinshasa Grand Hotel is a distinguished 4-star hotel in Kinshasa, DRC. It offers elegant accommodations and a variety of amenities to cater to both business and leisure travelers.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Conference Rooms</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>Bar</amenity>
+            <amenity>Room Service</amenity>
+        </amenities>
+    </hotel>
+    <!-- Hotel number 7 -->
+    <hotel category="3_star">
+        <name>Bukavu Lakeside Inn</name>
+        <location>Bukavu DRC</location>
+        <phone>+243 333 444 555</phone><url>http://bukavulakesideinn.com</url>
+        <description>Bukavu Lakeside Inn is a serene 3-star hotel located in Bukavu, DRC, offering peaceful lakeside views and comfortable accommodations for a tranquil stay.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>24-hour Front Desk</amenity>
+            <amenity>Laundry Service</amenity>
+         </amenities>
+    </hotel>
+    <!-- Hotel number 8 -->
+    <hotel category="4_star">
+        <name>Lubumbashi Luxury Suites</name>
+        <location>Lubumbashi DRC</location>
+        <phone>+243 666 777 888</phone>
+        <url>http://lubumbashiluxurysuites.com</url>
+        <description>Lubumbashi Luxury Suites is a sophisticated 4-star hotel in Lubumbashi, DRC, providing upscale accommodations and premium amenities for discerning travelers.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Swimming Pool</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>Bar</amenity>
+            <amenity>Fitness Center</amenity>
+        </amenities>
+    </hotel>
+    <!-- Hotel number 9 -->
+    <hotel category="5_star">
+        <name>Congo Grande Hotel</name>
+        <location>Kinshasa DRC</location>
+        <phone>+243 999 000 111</phone>
+        <url>http://congograndehotel.com</url>
+        <description>Congo Grande Hotel is a magnificent 5-star hotel situated in Kinshasa, DRC. It features luxurious rooms, exceptional dining experiences, and a wide range of world-class amenities for an unforgettable stay.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Swimming Pool</amenity>
+            <amenity>Spa</amenity>
+            <amenity>Gym</amenity>
+            <amenity>Gourmet Restaurant</amenity>
+        </amenities>
+    </hotel>
+    <!-- Hotel number 10 -->
+    <hotel category="3_star">
+        <name>Hotel du Lac</name>
+        <location>Goma DRC</location>
+        <phone>+243 121 232 343</phone>
+        <url>http://hoteldulacgoma.com</url>
+        <description>Hotel du Lac is a comfortable 3-star hotel located in Goma, DRC. It offers cozy accommodations and essential amenities for travelers seeking a pleasant stay by the lake.</description>
+        <amenities>
+            <amenity>Free WiFi</amenity>
+            <amenity>Restaurant</amenity>
+            <amenity>24-hour Front Desk</amenity>
+            <amenity>Laundry Service</amenity>
+            <amenity>Parking</amenity>
+        </amenities>
+    </hotel>
+</HOTELS_IN_Congo>
